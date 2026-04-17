@@ -1,6 +1,5 @@
 # 💫 Hi 👋, I'm Divyshresth Vishwakarma.
 
-# 💫 About Me:
 🔭 I’m currently working on improving my web development skills and building real-world projects  <br>👯 I’m looking to collaborate on web development and beginner-friendly open source projects  <br>🤝 I’m looking for help with advanced React and machine learning concepts  <br>🌱 I’m currently learning Machine Learning and improving my DSA  <br>💬 Ask me about HTML, CSS, JavaScript, React, and basics of Python  <br>⚡ Fun fact: I love sports as much as I love coding
 
 
