@@ -7,7 +7,7 @@
      wordmark: python scripts/make_wordmark_svg.py --mode rock
      how the wordmark is built: docs/3d-ascii-wordmark.md -->
 
-<h3><code>avi@github ~ $ whoami</code></h3>
+<h3><code>101xnikhil@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
