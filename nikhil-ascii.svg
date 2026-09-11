@@ -1,0 +1,607 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="1000"
+height="530"
+viewBox="0 0 1000 530">
+
+<rect width="100%" height="100%" fill="#0d1117"/>
+
+<g fill="#c9d1d9"
+   font-family="monospace"
+   font-size="10"
+   xml:space="preserve">
+
+<text x="0" y="10">
+                                                   .`:::``::::::``````..                                
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.00s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="20">
+                                               .`:::```````````````````````..                           
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.04s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="30">
+                                              `:```````````````::::`````````````..                      
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.08s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="40">
+                                             ::```````````...```````````````````````                    
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.12s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="50">
+                                             `:......``````.......``.``````````````:`                   
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.16s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="60">
+                                              `....`:-==--::`......`...`````````````-.                  
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.20s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="70">
+                                             `:```:-===++==--::````.....```..`````````                  
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.24s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="80">
+                                           .:--``-=======+++==--:::``````````````````:`                 
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.28s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="90">
+                                           `--::-===--:::::-====----:::::::::`````:::-:                 
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.32s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="100">
+                                           -=-:=+++=-::`.....`:-------------:``.  ....                  
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.36s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="110">
+                                          .==:-=++***=-:`````:--:```````::-:.                           
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.40s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="120">
+                                           .``:-==+++====+++++*+:.....``:-`                             
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.44s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="130">
+                                         ...``::--:```:-==++**++---:::::-.                              
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.48s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="140">
+                                       ....````:--:```:::```:::--:-=====`                               
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.52s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="150">
+                                     .....````.`:::-===-==-:``..```:---:                                
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.56s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="160">
+                                     ........-:..``:=++-------::``::::`                                 
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.60s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="170">
+                                    .```....:+=-`..`:---::``::::::``::`                                 
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.64s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="180">
+                                   .````...`====-:``.`````:`````....`:`                                 
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.68s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="190">
+                                  .`````.`:======--:``...````......````.                                
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.72s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="200">
+                               ..`:``````==++====--::`````::`....```````.                               
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.76s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="210">
+                     ..```--+++++=-``````=+++++=----:::::```...````````:.                               
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.80s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="220">
+                  ..:=+--=+*+*+:`....```.-+**+++==-------:::``.````````-===--::`                        
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.84s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="230">
+                .`..`-=*c*=-*+=*+-:`````.`:-+**++++++++++====+-```::`:-+*******+:..                     
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.88s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="240">
+              .``.`.-*cccc*+-=**+=ccc**+:````-+*+++++++******=:``:=-:-+*cccccc*c+.``.                   
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.92s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="250">
+            .``....`-+cc*==cc=+cc-csssssc+-``.`=*********=-:...-=*c*++*ccccccccc*`.```.                 
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="0.96s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="260">
+          .```......==-+*=:-=++=+-*sccc*+---:```+******+:.....`+csccc*++*cccccccc```````                
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.00s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="270">
+         .```..`..`.`======-:+**=`=++++*cc**=`=====+++-`....`:+css=--:::`-*scccc+````````.              
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.04s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="280">
+       .`````..``.....=***cc-=ccc=:-=+*cccssc-=-::---:````:-+csss*:--=:`-::=cc**:``````````             
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.08s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="290">
+      .``.```...`.....`===*c*:=+***++=-::===*=-::--:`.``-*cssssss+:--:``--:.+c=:.```````````.           
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.12s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="300">
+    .```...`..........`c*+=====:``:::++=+-=+-:--::-==-**--++*csssc:-==-===-`-c:..`````````````          
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.16s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="310">
+    :`````............`+****=c=:..-**cc=+=-=+=========-+*-----=**c+`::---:`:*c-..``````````````         
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.20s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="320">
+    ``````.............+c*cc+c*-:..-*c=:-==========-----=++----*=-*+::::`:=+cc=..```````````````.       
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.24s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="330">
+    `````.............`-cccc*++=-=::----=======------:::-+*c*-:*c:+c**********:..`````````````````      
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.28s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="340">
+    ``................:+ccc+-`.`-===+-:-==----------------:-+=`:+:=++-=+++++=-.....````````````````     
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.32s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="350">
+    ...................:++:``:-===+++=-------------------------:::``:=-:--::`` .......`````````::`      
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.36s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="360">
+    ... .....`````... ..`:-====+++==-::--::::--------------------::.`::`.....    .....``::--------`     
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.40s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="370">
+           ..``````..`.--===+====----::---------------------------::`::::```.      ..`:--====---::::    
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.44s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="380">
+    .       ....... .``-`=+==--------::::::::::---:::-------::::::::::::-:::::```.. ..``::------:::::.  
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.48s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="390">
+    .        .....  ..`:`..````-====---::````.........```::`:::::::``::::::::::::::::````:::::::::::::. 
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.52s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="400">
+    .              ...::-:`````-==---:``......     .        ...`````:::::::::::::::::::::::::::::::::::`
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.56s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="410">
+                   ...::-------::``..  ............................```````````::::::::::::::::::::::::::
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.60s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="420">
+                   . `:```...............``.....................  .....``````````````:::::::::::::::::::
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.64s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="430">
+                   ..::`................`````................................```````````````````::::::::
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.68s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="440">
+                   .````..............````.```.....``...`````.............  ........``````````````::::::
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.72s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="450">
+                    ................`````.````..``````....````````........       ........````````````:::
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.76s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="460">
+                       ............`````.`````..``````......``````.....```            .........`````````
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.80s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="470">
+                         .........`````.`````.```````````````````...````.`                   ..........`
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.84s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="480">
+                            .....`````.`.```````:```````````:``..`````````                              
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.88s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="490">
+                              .......`````````:::``.```````````.`...``````..                            
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.92s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="500">
+                                ....``````````::`````````:````.``:::`````..                             
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="1.96s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="510">
+                                   ................```:```......``......                                
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="2.00s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="520">
+                                            ................  ...                                       
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="2.04s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+<text x="0" y="530">
+                                              ............  ......                                      
+    <animate
+        attributeName="opacity"
+        from="0"
+        to="1"
+        begin="2.08s"
+        dur="0.08s"
+        fill="freeze" />
+</text>
+
+</g>
+
+<!-- Blinking cursor -->
+<rect x="0" y="525" width="6" height="10" fill="#c9d1d9">
+    <animate
+        attributeName="opacity"
+        values="1;0;1"
+        dur="0.8s"
+        repeatCount="indefinite" />
+</rect>
+
+</svg>
