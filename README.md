@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nikhil 👋
+# Hi, I'm Divyshresth 👋
 
 ### `developer • builder • learner`
 
