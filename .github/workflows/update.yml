@@ -1,12 +1,9 @@
-name: Update README.md
+name: Update Profile
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "17 6 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -25,25 +22,13 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install -r scripts/requirements.txt
+        run: pip install requests beautifulsoup4
 
       - name: Generate heatmap
-        run: |
-          python scripts/make_heatmap.py
+        run: python scripts/make_heatmap.py
 
-      - name: Generate info SVG
-        run: |
-          python scripts/make_info_svg.py
-
-      - name: Generate ASCII SVG
-        run: |
-          python scripts/make_ascii_svg.py
-
-      - name: Commit generated files
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git diff --cached --quiet || git commit -m "Update profile assets"
-          git push
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "Update contribution heatmap"
+          file_pattern: "nikhil-heatmap.svg"
